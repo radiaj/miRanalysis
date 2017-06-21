@@ -1,5 +1,5 @@
 # miRanalysis
-Contains example script used to run the analysis in Donayo et al. 
+Contains example script used to run the analysis in Donayo et al. This script was run on the Compute Canada, Calcul Quebec Briaree cluster. See https://wiki.calculquebec.ca/w/Ex%C3%A9cuter_une_t%C3%A2che/en for more information.
 
 The mm10 reference genome can be downloaded from iGenomes at https://support.illumina.com/sequencing/sequencing_software/igenome.html.
 mirdeep2 can be downloaded from https://www.mdc-berlin.de/8551903/en/.
