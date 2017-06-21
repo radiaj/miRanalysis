@@ -9,8 +9,8 @@ module add fastx_tools/0.0.13
 # Variables
 FILENAME=$1
 myDIR=$2
-myREF="/RQexec/johnsonr/Mus_musculus/UCSC/mm10/Sequence/BowtieIndex"
-myMIR="/RQusagers/johnsonr/miRNA_reference"
+myREF="SCRATCH_DIRECTORY/Mus_musculus/UCSC/mm10/Sequence/BowtieIndex"
+myMIR="~/miRNA_reference"
 count=0
 
 # Build the bowtie index for hairpin.fa
